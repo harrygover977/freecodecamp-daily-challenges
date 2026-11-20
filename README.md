@@ -10,17 +10,17 @@ This repo tracks my daily practice. Each day I solve the freeCodeCamp daily chal
 
 Solutions are organised by date:
 
-coding_challenges
-
-    |
-
-    19/11/2026
+    coding_challenges
 
         |
 
-        instructions.md
-        
-        solution.py
+        19/11/2026
+
+            |
+
+            instructions.md
+
+            solution.py
 
 ## Acknowledgments 
 
